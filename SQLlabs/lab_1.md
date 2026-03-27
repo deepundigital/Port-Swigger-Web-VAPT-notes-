@@ -22,4 +22,4 @@ Analysis : According to the given query if product is relased it show 1 (relased
         in this query we want first query is true either other is true and comment the rest query.
 
         so our payload is  :  ' OR 1=1 -- 
-        and this payload is category parameter in request captured and also put directly in url.
+        and this payload in category parameter in request captured and also put directly in url.
